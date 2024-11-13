@@ -1,6 +1,6 @@
 # EXCEL_PROJECTS
 
-PROJECT 1: INVESTMENT PORTFOLIO DASHBOARD USING EXCEL
+__PROJECT 1: INVESTMENT PORTFOLIO DASHBOARD USING EXCEL__
 
 I created my this dashboard in Excel showcasing cumulative growth, risk analysis, and projected returns over time. I got the data from [CHATGPT](https://1drv.ms/x/c/a153e5ee08670d95/ER331l1FFCBBkd6_2R5g5vcBxhkxTH05D2xct63rI0Ev7Q).  Using Excel’s analytical tools, I visualized key metrics to identify trends and evaluate risks across various investments. I did some cleaning, i.e., converting texts to numbers. 
 
@@ -17,7 +17,7 @@ Expected Monetary Return Over Time: The chart illustrates projected growth for e
 This project reflects my focus on data-driven financial analysis to make informed investment decisions.
 
 
-PROJECT 2: COMPANY FINANCIALS ANALYSIS DASHBOARD
+__PROJECT 2: COMPANY FINANCIALS ANALYSIS DASHBOARD__
 
 OVERVIEW
 
@@ -50,6 +50,7 @@ HOW TO USE:
 Open the Excel file.
 Use the slicers on the left side of the dashboard to filter by time period, country, product, and discount band.
 View the visualizations on the dashboard to explore key financial insights.
+
 VISUALIATIONS:
 
 Total Sales and Profit: Key financial KPIs displayed prominently at the top.
@@ -60,14 +61,80 @@ Gross Sales by Product: Bar chart visualizing the top revenue-generating product
 Top Products by Units Sold: Bar chart indicating which products had the highest unit sales.
 Manufacturing Price vs. Sale Price: Bar chart comparing costs with selling prices.
 Discount vs. Gross Sales: Bar chart showing how discounts affect sales volume.
+
 TOOLS USED:
 
 Microsoft Excel (PivotTables, Charts, Slicers)
 Data from Kaggle Financials Dataset
+
 FUTURE ENHANCEMENTS:
 
 Automating data refresh with Power Query.
 Incorporating additional financial metrics such as ROI and net margin.
-CONTRIBUTING:
 
 If you'd like to contribute, feel free to submit a pull request or open an issue to suggest changes.
+
+
+__PROJECT 3: SUPERMARKET_SALES_ANALYSIS__
+
+This project involves the analysis of a supermarket sales dataset using Microsoft Excel. This repository contains a comprehensive analysis and visualization of a supermarket sales dataset sourced from Kaggle. The goal of this project was to uncover insights into sales trends, branch performance, product line popularity, and customer behavior.
+
+DATASET OVERVIEW:
+
+A. Source: Kaggle Supermarket Sales Dataset
+
+B. Columns:
+
+Invoice ID: Unique identifier for each transaction
+Branch: Branch identifier (A, B, C)
+City: City where the branch is located
+Customer Type: Loyalty type (Member or Normal)
+Gender: Gender of the customer
+Product Line: Category of product purchased
+Unit Price: Price per unit of product
+Quantity: Number of units purchased
+Tax 5%: Tax applied (5% of cost)
+Total: Total cost after tax
+Date: Transaction date
+Time: Time of transaction
+Payment: Payment method (Cash, Credit card, E-wallet)
+COGS: Cost of goods sold
+Gross Margin %: Gross margin percentage
+Gross Income: Gross income from each sale
+Rating: Customer satisfaction rating
+
+KEY FINDINGS:
+
+Sales by Branch: Sales were distributed almost equally across all branches.
+Gender Analysis: Female customers contributed to a higher portion of sales compared to male customers.
+Top Products: "Food and Beverages" and "Sports and Travel" were the most popular product lines.
+City-wise Sales: Naypyitaw had the highest sales volume among the cities.
+Payment Preferences: Cash was the most preferred payment method, followed by credit cards and e-wallets.
+Sales Trends: A clear upward trend in sales can be observed over time, with fluctuations around peak seasons.
+
+VISUALIZATIONS:
+
+The following dashboards and charts were created to visualize the data:
+
+Sales by Branch
+Sales by Gender
+Sales Trend Over Time
+Sales by City
+Preferred Payment Methods
+Gross Income by Branch
+Total Quantity Sold by Product Line
+Sales by Product Line
+
+TOOLS USED:
+
+Microsoft Excel: For data cleaning, analysis, and visualization.
+Pivot Tables: To summarize data and create flexible reports.
+Charts and Graphs: For visualizing trends, comparisons, and patterns.
+Slicers: For creating an interactive dashboard to filter and explore data.
+
+HOW TO USE:
+
+Download the dataset from Kaggle.
+Open the Excel file provided in this repository.
+Explore the dashboard and use the slicers to filter data by gender, branch, product line, and city.
+Feel free to explore the analysis, modify the filters, and adjust the dashboard as per your needs. Contributions are welcome!
