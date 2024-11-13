@@ -17,7 +17,7 @@ Expected Monetary Return Over Time: The chart illustrates projected growth for e
 This project reflects my focus on data-driven financial analysis to make informed investment decisions.
 
 
-__PROJECT 2: COMPANY FINANCIALS ANALYSIS DASHBOARD__
+__[PROJECT 2](https://github.com/MissCheptoo/EXCEL_PROJECTS/tree/main/%20COMPANY_FINANACIALS): COMPANY FINANCIALS ANALYSIS DASHBOARD__
 
 OVERVIEW
 
