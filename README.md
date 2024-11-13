@@ -75,7 +75,7 @@ Incorporating additional financial metrics such as ROI and net margin.
 If you'd like to contribute, feel free to submit a pull request or open an issue to suggest changes.
 
 
-__PROJECT 3: SUPERMARKET_SALES_ANALYSIS__
+__[PROJECT 3](https://github.com/MissCheptoo/EXCEL_PROJECTS/tree/main/%20SUPERMARKET_SALES_ANALYSIS): SUPERMARKET_SALES_ANALYSIS__
 
 This project involves the analysis of a supermarket sales dataset using Microsoft Excel. This repository contains a comprehensive analysis and visualization of a supermarket sales dataset sourced from Kaggle. The goal of this project was to uncover insights into sales trends, branch performance, product line popularity, and customer behavior.
 
