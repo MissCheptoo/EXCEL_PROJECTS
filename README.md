@@ -1,6 +1,6 @@
 # EXCEL_PROJECTS
 
-__PROJECT 1: INVESTMENT PORTFOLIO DASHBOARD USING EXCEL__
+__[PROJECT 1](  https://github.com/MissCheptoo/EXCEL_PROJECTS/tree/main/%20INVESTMENT_ANALYSIS): INVESTMENT PORTFOLIO DASHBOARD USING EXCEL__
 
 I created my this dashboard in Excel showcasing cumulative growth, risk analysis, and projected returns over time. I got the data from [CHATGPT](https://1drv.ms/x/c/a153e5ee08670d95/ER331l1FFCBBkd6_2R5g5vcBxhkxTH05D2xct63rI0Ev7Q).  Using Excel’s analytical tools, I visualized key metrics to identify trends and evaluate risks across various investments. I did some cleaning, i.e., converting texts to numbers. 
 
